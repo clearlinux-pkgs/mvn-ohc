@@ -4,7 +4,7 @@
 #
 Name     : mvn-ohc
 Version  : 0.4.4
-Release  : 2
+Release  : 3
 URL      : https://github.com/snazy/ohc/archive/0.4.4.tar.gz
 Source0  : https://github.com/snazy/ohc/archive/0.4.4.tar.gz
 Source1  : https://repo.maven.apache.org/maven2/org/caffinitas/ohc/ohc-core-j8/0.4.4/ohc-core-j8-0.4.4.jar
